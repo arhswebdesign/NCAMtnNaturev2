@@ -1,0 +1,46 @@
+article {
+padding: 4px;
+margin: 0px;
+background-color: springgreen;
+}
+
+/* Add your flexbox CSS below here */
+
+section {
+display: flex;
+}
+
+img {
+width:100px;
+height:100px;
+}
+
+div {
+background-color:#732913;
+color:lemonchiffon;
+margin: 0;
+font-family: 'Kite One';
+}
+
+/* Above this point it is just like style.css */
+
+.large {
+width: 320px;
+height: 320px;
+border-color: black;
+border-style: solid;
+border-width: 3px;
+}
+
+h4 {
+font-style: italic;
+}
+
+main {
+margin: 4px;
+}
+
+a {color:darkorange;}
+a:link {color:orange;}
+a:visited {color:yellow;}
+a:hover {color:darkorange;}

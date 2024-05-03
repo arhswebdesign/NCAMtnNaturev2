@@ -1,0 +1,44 @@
+body {
+background-image: url("tweed.jpg");
+color: #D7A9A7;
+
+}
+
+img {
+border-color: lightsalmon;
+border-style: solid;
+border-width: 3px;
+}
+
+h4 {
+font-style: italic;
+}
+
+main {
+margin: 4px;
+}
+
+.btn-danger {
+background-color: #E8875F;
+}
+
+.btn-danger:hover {
+background-color: #F54428;
+}
+
+.btn-warning {
+background-color: #80BF67;
+color:#4d1919;
+border-color:black;
+}
+
+.btn-warning:hover {
+  background-color:lightgreen;
+}
+
+a {color:palevioletred;
+  }
+
+a:hover {
+  color:thistle;
+}
