@@ -1,0 +1,45 @@
+body {
+background-color: #213a1b;;
+color: #FFECB5;
+}
+
+img {
+border-color: #C56C39;
+border-style: solid;
+border-width: 3px;
+}
+
+img.medium {
+  width: 100%;
+}
+
+td {
+  width: 33.33%;
+}
+
+p.fig {
+  background-color: #6F4930;
+  color: #FFECB5;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+
+h4 {
+font-style: italic;
+}
+
+main {
+margin: 4px;
+}
+
+.btn-danger {
+background-color: #C56C39;
+color:#4d1919;
+border-color:black;
+}
+
+.btn-danger:hover {
+  background-color:#FFECB5;
+  color:#4d1919;
+}

@@ -1,0 +1,83 @@
+body {
+background-color: #213a1b;;
+color: #FFECB5;
+}
+
+table {
+  width: 100%;
+}
+/*img {
+border-color: #bae5f9;
+border-style: solid;
+border-width: 3px;
+}*/
+
+/*
+img {
+width:100px;
+height:100px;
+}
+*/
+nav {
+  overflow: hidden;;
+}
+
+/*nav a {
+  float: right;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;*/
+  
+}
+
+h4 {
+font-style: italic;
+}
+
+main {
+margin: 4px;
+}
+
+article {
+padding: 4px;
+padding-bottom: 0px;
+margin: 0px;
+background: #C56C39;
+}
+
+/* Add your flexbox CSS below here */
+
+section {
+display: flex;
+flex-wrap: wrap;
+}
+
+.button {
+  font: bold 22px Arial;
+  text-decoration: none;
+  background-color:#FFECB5;
+  color:#4d1919;
+  padding: 2px 6px 2px 6px;
+  margin-right:30px;
+  margin-top: 7px;
+  border-radius: 9px;
+  border-top: 1px solid white;
+  border-right: 2px solid #4d1919;
+  border-bottom: 2px solid #4d1919;
+  border-left: 1px solid white;
+}
+/*
+.button:hover {
+  background-color: yellow;
+  color: darkslateblue;
+  border-top: 1px solid white;
+  border-right: 2px solid darkslateblue;
+  border-bottom: 2px solid darkslateblue;
+  border-left: 1px solid white;
+}
+*/
+
+.right {
+    float:right;
+}
