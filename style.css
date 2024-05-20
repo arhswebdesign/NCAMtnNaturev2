@@ -81,5 +81,9 @@ font-family: 'Kite One';
 
 .right {
     float:right;
-    margin-right:72px;
+    margin-right:10%;
+}
+
+table{ 
+    width:100;
 }
